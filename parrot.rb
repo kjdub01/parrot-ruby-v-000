@@ -3,4 +3,7 @@
 def parrot (*talk)
   puts "#{talk}"
   return "#{talk}"
+  
+  puts "Squawk!"
+  return "Squawk!"
 end
